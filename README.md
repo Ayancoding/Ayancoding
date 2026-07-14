@@ -10,56 +10,41 @@
 
 ---
 
-# 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
-🎓 Final Year B.Tech Computer Science Engineering Student
+<p align="center">
+🎓 <b>Final Year B.Tech Computer Science Engineering Student</b><br><br>
 
-💻 Passionate MERN Stack Developer
+💻 Passionate <b>MERN Stack Developer</b> focused on building modern, responsive, and scalable web applications.<br><br>
 
-🚀 Building responsive and scalable Full Stack Web Applications
+🚀 I enjoy transforming ideas into interactive digital experiences using
+<b>MongoDB, Express.js, React.js, and Node.js.</b><br><br>
 
-🌱 Currently Learning
+🌱 <b>Currently Learning</b><br>
+⚡ Advanced React.js <br>
+⚡ Next.js <br>
+⚡ TypeScript <br>
+⚡ Node.js Performance Optimization <br>
+⚡ REST APIs <br>
+⚡ Authentication & Authorization <br>
+⚡ Docker <br>
+⚡ AWS Cloud <br><br>
 
-- Advanced React.js
-- Next.js
-- TypeScript
-- Node.js Performance Optimization
-- REST APIs
-- Authentication & Authorization
-- Docker
-- AWS
+💬 <b>Ask Me About</b><br>
+React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoDB • REST APIs • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Git • GitHub<br><br>
 
-👨‍💻 Portfolio Coming Soon
-
-📫 Email:
-**mdikramulansari436@gmail.com**
-
-💬 Ask Me About
-
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- Node.js
-- Express.js
-- MongoDB
-- REST API
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- Git & GitHub
-
-⚡ Fun Fact
-
-> I enjoy transforming ideas into responsive and user-friendly web applications.
-
+📫 <b>Reach Me At</b><br>
+<a href="mailto:mdikramulansari436@gmail.com">
+<b>mdikramulansari436@gmail.com</b>
+</a><br><br>
 ---
+
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/%F0%9D%90%8C%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%A4%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%A5-ansari-741a21208/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
