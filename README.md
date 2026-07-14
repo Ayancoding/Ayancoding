@@ -6,18 +6,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React.js+Developer;Node.js+%7C+Express.js+Developer;MongoDB+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 <hr>
-<h2 align="center">💫 About Me</h2>
-<p align="center">
-🎓 <b>Final Year B.Tech Computer Science Engineering Student</b><br><br>
-💻 Passionate <b>MERN Stack Developer</b> focused on building modern, responsive, and scalable web applications.<br>
-🚀 I enjoy transforming ideas into interactive digital experiences using <b>MongoDB, Express.js, React.js, and Node.js.</b><br><br>
-🌱 <b>Currently Learning</b><br><br>
 
-I am continuously improving my expertise in modern web development by learning <b>Advanced React.js, Next.js, TypeScript, REST API Development, Authentication & Authorization, Node.js Performance Optimization, Docker, and AWS Cloud</b> to build high-performance, scalable, and secure applications.
+## 🌐 Portfolio Website
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,docker,aws,postman" />
+  <a href="[https://your-portfolio-link.com](https://wonderful-crisp-6b2fa4.netlify.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
+# Hi 👋, I'm Md Ikramul Ansari
+
+## 🚀 About Me
+
+- 🎓 **B.Tech Computer Science & Engineering Graduate (2026)**
+- 💻 **Full Stack Developer** specializing in the **MERN Stack**
+- 🧠 Strong foundation in **Data Structures & Algorithms (DSA)**
+- 🌐 Passionate about building **scalable**, **responsive**, and **user-friendly** web applications
+- 🚀 Interested in solving **real-world problems** through technology
+- 📚 Continuously learning modern software development technologies
+
+## 🌱 Currently Learning
+
+- ⚡ **Next.js**
+- ⚡ **TypeScript**
+- ⚡ **Docker**
+- ⚡ **AWS Cloud**
+- ⚡ **System Design**
+
+## 💡 What Drives Me
+
+- ✨ Writing **clean**, **maintainable**, and **efficient** code
+- 🤝 Contributing to **Open Source**
+- 📈 Improving **problem-solving** and **development** skills every day
+- 🎯 Building projects that create **real impact**.
+
+> *"Code. Learn. Build. Repeat."* 🚀
 💬 <b>Ask Me About</b><br>
 React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoDB • REST APIs • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Git • GitHub<br><br>
 📫 <b>Reach Me At</b><br>
@@ -198,18 +222,6 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 ✔ JWT Authentication
 ✔ Protected Routes
 ✔ MongoDB
-
----
-
-# 📚 Currently Learning
-
-- Next.js
-- TypeScript
-- Redux Toolkit
-- Docker
-- AWS
-- CI/CD
-- System Design
 
 ---
 
