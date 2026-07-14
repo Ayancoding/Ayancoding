@@ -52,7 +52,7 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/Ayancoding)">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
