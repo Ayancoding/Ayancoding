@@ -295,7 +295,7 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME](https://github.com/Ayancoding)/output/pacman-contribution-graph-dark.svg">
 </p>
 
 <p align="center">
