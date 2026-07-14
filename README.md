@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md Ikramul Ansari</h1>
-
 <h3 align="center">
 🚀 MERN Stack Developer | Full Stack Web Developer | JavaScript Enthusiast | Open Source Learner
 </h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React.js+Developer;Node.js+%7C+Express.js+Developer;MongoDB+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
-
 ---
-
 <h2 align="center">💫 About Me</h2>
-
 <p align="center">
 🎓 <b>Final Year B.Tech Computer Science Engineering Student</b><br><br>
 
 💻 Passionate <b>MERN Stack Developer</b> focused on building modern, responsive, and scalable web applications.<br><br>
-
 🚀 I enjoy transforming ideas into interactive digital experiences using
 <b>MongoDB, Express.js, React.js, and Node.js.</b><br><br>
-
 🌱 <b>Currently Learning</b><br>
 ⚡ Advanced React.js <br>
 ⚡ Next.js <br>
@@ -38,7 +31,6 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 <b>mdikramulansari436@gmail.com</b>
 </a><br><br>
 ---
-
 
 # 🌐 Connect With Me
 
@@ -113,25 +105,17 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 ---
 
 ## 💰 Crypto Tracker
-
 ✔ React.js
-
 ✔ Material UI
-
 ✔ CoinGecko API
-
 ✔ Chart.js
 
 ---
 
 ## 🌐 Architecture Website
-
 ✔ HTML5
-
 ✔ CSS3
-
 ✔ Bootstrap
-
 ✔ Responsive Design
 
 ---
@@ -139,11 +123,8 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 ## 📝 MERN Authentication System
 
 ✔ Login & Signup
-
 ✔ JWT Authentication
-
 ✔ Protected Routes
-
 ✔ MongoDB
 
 ---
@@ -163,13 +144,9 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 # 🏆 Achievements
 
 🏅 MERN Stack Developer
-
 🏅 JavaScript Certified
-
 🏅 Linux Administration Internship
-
 🏅 Built Multiple Responsive Websites
-
 🏅 Passionate Open Source Learner
 
 ---
@@ -310,4 +287,42 @@ React.js • Next.js • JavaScript (ES6+) • Node.js • Express.js • MongoD
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<a href="https://github.com/Ayancoding" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/%F0%9D%90%8C%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%A4%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%AE%F0%9D%90%A5-ansari-741a21208/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayancoding&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayancoding&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayancoding&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayancoding&theme=tokyo-night"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayancoding&theme=algolia&no-frame=true&column=7"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayancoding&theme=tokyonight"/>
+
+<img src="https://komarev.com/ghpvc/?username=Ayancoding&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Ayancoding?style=for-the-badge"/>
+
+<img src="https://raw.githubusercontent.com/Ayancoding/Ayancoding/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/Ayancoding/Ayancoding/output/pacman-contribution-graph-dark.svg"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Md%20Ikramul%20Ansari&fontColor=ffffff&fontSize=50&animation=twinkling"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;React.js+Developer;Node.js+Developer;MongoDB+Developer;Building+Scalable+Applications;Open+Source+Contributor;Always+Learning+🚀"/>
+</p>
+
+<p align="center">
+<img width="420" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 </p>
