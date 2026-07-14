@@ -3,7 +3,9 @@
 🚀 MERN Stack Developer | Full Stack Web Developer | JavaScript Enthusiast | Open Source Learner
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React.js+Developer;Node.js+%7C+Express.js+Developer;MongoDB+Enthusiast;Building+Scalable+Web+Applications" />
+  <a href="https://wonderful-crisp-6b2fa4.netlify.app/">
+    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 <hr>
 
