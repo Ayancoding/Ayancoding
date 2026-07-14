@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md Ikramul Ansari</h1>
 <h3 align="center">
 🚀 MERN Stack Developer | Full Stack Web Developer | JavaScript Enthusiast | Open Source Learner
-</h3>
-<p align="center">
-  <a href="https://wonderful-crisp-6b2fa4.netlify.app/">
-    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
   </a>
 </p>
-<hr>
+</h3>
+<!-- <hr> -->
 
-## 🌐 Portfolio Website
-
+<h2 align="center">🌐 Portfolio Website</h2>
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://wonderful-crisp-6b2fa4.netlify.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://wonderful-crisp-6b2fa4.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
