@@ -282,3 +282,47 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Md%20Ikramul%20Ansari&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+
+<p align="center">
+<img width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;React.js+Developer;Node.js+Developer;MongoDB+Developer;Open+Source+Contributor;Building+Awesome+Web+Apps;Always+Learning+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,python,cpp,git,github,docker,linux,aws,vscode,postman&perline=10"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&column=7&no-frame=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+</p>
